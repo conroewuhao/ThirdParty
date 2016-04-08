@@ -642,6 +642,8 @@ My Application for the 2015 WWDC Scholarship Application
 # 其他
 [CocoaLumberjack](https://github.com/CocoaLumberjack/CocoaLumberjack)著名的日志管理系统
 
+[XTrace](https://github.com/johnno1962/Xtrace)追踪由类运行的方法
+
 
 # CloudKit
 
