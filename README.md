@@ -166,6 +166,10 @@ p 提供了一个可在 iPhone 和 iPad 上使用的具有 UINavigationControlle
 **[kxmovie](https://github.com/kinglonghuang/kxmovie)**
 视频流播放器-movie player for iOS using ffmpeg
 
+**[XLVideoPlayer](https://github.com/ShelinShelin/XLVideoPlayer)**
+XLVideoPlayer是基于AVFoundation的视频播放器，完全自定义界面，支持UITableViewCell上小屏、全屏播放，手动及屏幕旋转切换
+
+
 **[VKVideoPlayer](https://github.com/viki-org/VKVideoPlayer)**
 VKVideoPlayer is the same battle tested video player used in our **Viki** iOS App enjoyed by millions of users all around the world.
 
@@ -652,7 +656,8 @@ My Application for the 2015 WWDC Scholarship Application
 
 [Swift版CloudKitDemo](https://www.dropbox.com/s/gige1jsnz3eownm/CloudDemo.zip?dl=0)写的很清晰,上传图像和简介
 
-
+# 监测Crash框架
+[Bugly](https://bugly.qq.com)腾讯出产的监测Bug和Crash的框架
 
 
 
